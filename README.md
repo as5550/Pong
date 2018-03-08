@@ -1,2 +1,2 @@
-# collision-game
-A classic collsion arcade game written in HTML, CSS and Javascript 
+# Collision-game
+A arcade classic collsion game written in HTML, CSS and Javascript 
